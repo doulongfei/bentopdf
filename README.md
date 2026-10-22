@@ -1,3 +1,16 @@
+<!-- lfdou-deployment -->
+## 公开部署
+
+- 在线访问：**[https://pdf.lfdou.ccwu.cc](https://pdf.lfdou.ccwu.cc)**
+- 源码仓库：[doulongfei/bentopdf](https://github.com/doulongfei/bentopdf)
+- 部署、目录、升级与回滚：[public-services](https://github.com/doulongfei/public-services)
+- 上游项目：https://github.com/alam00000/bentopdf
+- 本次同步的上游提交：`4a7dc7675b7234933eb30c5a3fdfe4c8414cf66b`
+
+本部署保留上游许可证和作者署名。公开站点基于此仓库源码构建，部署配置与运行数据分开保存。
+
+---
+
 <p align="center"><img src="public/images/favicon-no-bg.svg" width="80"></p>
 <h1 align="center">BentoPDF</h1>
 <p align="center"><sub>Supported by</sub></p>
